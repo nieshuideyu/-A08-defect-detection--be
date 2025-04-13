@@ -54,7 +54,7 @@
 1. **克隆项目**
 
 ```bash
-git clone https://github.com/yourusername/image-detection-service.git
+git clone [https://github.com/yourusername/image-detection-service.git](https://github.com/nieshuideyu/-A08-defect-detection--be.git)
 cd image-detection-service
 ```
 
